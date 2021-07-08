@@ -4,7 +4,7 @@
 # to explore variance structure in the data, and identify that 
 # the presence of calcifying phytoplankton might bias our capacity to infer
 # common place derived-variables from ocean colour, such as chlorophyll-a concentration. 
-# Thereafter we will use a pair of linear discriminants, in order to create a mask to identify pixels
+# Thereafter we will use threshold based on PC1, in order to create a mask to identify pixels
 # dominated by calcifying phytoplankton, so that we can identify when derived variables such as 
 # chlorophyll-a concentration might be influenced by the presence of calcifiers. 
 
